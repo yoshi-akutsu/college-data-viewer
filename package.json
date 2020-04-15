@@ -1,0 +1,25 @@
+{
+  "name": "college-data-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshi-akutsu/college-data-viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshi-akutsu/college-data-viewer/issues"
+  },
+  "homepage": "https://github.com/yoshi-akutsu/college-data-viewer#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "googleapis": "^39.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
