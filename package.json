@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/yoshi-akutsu/college-data-viewer#readme",
   "dependencies": {
+    "cors-anywhere": "^0.4.1",
     "csv-parser": "^2.3.2",
+    "express": "^4.17.1",
     "googleapis": "^39.2.0",
     "node-fetch": "^2.6.0"
   }
