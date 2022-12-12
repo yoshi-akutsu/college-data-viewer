@@ -20,7 +20,7 @@
   "dependencies": {
     "cors-anywhere": "^0.4.1",
     "csv-parser": "^2.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^39.2.0",
     "node-fetch": "^2.6.0"
   }
